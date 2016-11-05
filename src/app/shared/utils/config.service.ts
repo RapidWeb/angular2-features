@@ -6,7 +6,7 @@ export class ConfigService {
     _apiURI : string;
 
     constructor() {
-        this._apiURI = 'http://schedulerapi20161028101836.azurewebsites.net/api/';
+        this._apiURI = 'http://schedulerwebui.azurewebsites.net/api/';
      }
 
      getApiURI() {
