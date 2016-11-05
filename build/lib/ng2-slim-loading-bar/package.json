@@ -1,21 +1,14 @@
 {
   "_args": [
     [
-      {
-        "raw": "ng2-slim-loading-bar@1.5.1",
-        "scope": null,
-        "escapedName": "ng2-slim-loading-bar",
-        "name": "ng2-slim-loading-bar",
-        "rawSpec": "1.5.1",
-        "spec": "1.5.1",
-        "type": "version"
-      },
-      "C:\\Users\\developer\\workspace\\blogger\\angular2-features"
+      "ng2-slim-loading-bar@1.5.1",
+      "C:\\web\\Azure\\angular2-features"
     ]
   ],
   "_from": "ng2-slim-loading-bar@1.5.1",
   "_id": "ng2-slim-loading-bar@1.5.1",
   "_inCache": true,
+  "_installable": true,
   "_location": "/ng2-slim-loading-bar",
   "_nodeVersion": "5.12.0",
   "_npmOperationalInternal": {
@@ -23,30 +16,29 @@
     "tmp": "tmp/ng2-slim-loading-bar-1.5.1.tgz_1472407914362_0.7221613151486963"
   },
   "_npmUser": {
-    "name": "akserg",
-    "email": "akserg@gmail.com"
+    "email": "akserg@gmail.com",
+    "name": "akserg"
   },
   "_npmVersion": "3.10.6",
   "_phantomChildren": {
     "symbol-observable": "1.0.4"
   },
   "_requested": {
-    "raw": "ng2-slim-loading-bar@1.5.1",
-    "scope": null,
-    "escapedName": "ng2-slim-loading-bar",
     "name": "ng2-slim-loading-bar",
+    "raw": "ng2-slim-loading-bar@1.5.1",
     "rawSpec": "1.5.1",
+    "scope": null,
     "spec": "1.5.1",
     "type": "version"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ng2-slim-loading-bar/-/ng2-slim-loading-bar-1.5.1.tgz",
+  "_resolved": "http://registry.npmjs.org/ng2-slim-loading-bar/-/ng2-slim-loading-bar-1.5.1.tgz",
   "_shasum": "ab0691b2811959a9075a4fd0ff75317882d4b668",
   "_shrinkwrap": null,
   "_spec": "ng2-slim-loading-bar@1.5.1",
-  "_where": "C:\\Users\\developer\\workspace\\blogger\\angular2-features",
+  "_where": "C:\\web\\Azure\\angular2-features",
   "author": {
     "name": "Sergey Akopkokhyants"
   },
@@ -105,8 +97,8 @@
   "main": "index.js",
   "maintainers": [
     {
-      "name": "akserg",
-      "email": "akserg@gmail.com"
+      "email": "akserg@gmail.com",
+      "name": "akserg"
     }
   ],
   "name": "ng2-slim-loading-bar",

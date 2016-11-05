@@ -1,21 +1,14 @@
 {
   "_args": [
     [
-      {
-        "raw": "ng2-bootstrap@^1.1.5",
-        "scope": null,
-        "escapedName": "ng2-bootstrap",
-        "name": "ng2-bootstrap",
-        "rawSpec": "^1.1.5",
-        "spec": ">=1.1.5 <2.0.0",
-        "type": "range"
-      },
-      "C:\\Users\\developer\\workspace\\blogger\\angular2-features"
+      "ng2-bootstrap@^1.1.5",
+      "C:\\web\\Azure\\angular2-features"
     ]
   ],
   "_from": "ng2-bootstrap@>=1.1.5 <2.0.0",
   "_id": "ng2-bootstrap@1.1.16",
   "_inCache": true,
+  "_installable": true,
   "_location": "/ng2-bootstrap",
   "_nodeVersion": "6.2.1",
   "_npmOperationalInternal": {
@@ -23,31 +16,30 @@
     "tmp": "tmp/ng2-bootstrap-1.1.16.tgz_1477520188416_0.6373086853418499"
   },
   "_npmUser": {
-    "name": "valorkin",
-    "email": "valorkin@gmail.com"
+    "email": "valorkin@gmail.com",
+    "name": "valorkin"
   },
   "_npmVersion": "3.10.8",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "ng2-bootstrap@^1.1.5",
-    "scope": null,
-    "escapedName": "ng2-bootstrap",
     "name": "ng2-bootstrap",
+    "raw": "ng2-bootstrap@^1.1.5",
     "rawSpec": "^1.1.5",
+    "scope": null,
     "spec": ">=1.1.5 <2.0.0",
     "type": "range"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ng2-bootstrap/-/ng2-bootstrap-1.1.16.tgz",
+  "_resolved": "http://registry.npmjs.org/ng2-bootstrap/-/ng2-bootstrap-1.1.16.tgz",
   "_shasum": "0c5cd83a1f89f8d215c43a99e7b9dedab577ac5b",
   "_shrinkwrap": null,
   "_spec": "ng2-bootstrap@^1.1.5",
-  "_where": "C:\\Users\\developer\\workspace\\blogger\\angular2-features",
+  "_where": "C:\\web\\Azure\\angular2-features",
   "author": {
-    "name": "Dmitriy Shekhovtsov",
-    "email": "valorkin@gmail.com"
+    "email": "valorkin@gmail.com",
+    "name": "Dmitriy Shekhovtsov"
   },
   "bugs": {
     "url": "https://github.com/valor-software/ng2-bootstrap/issues"
@@ -122,8 +114,8 @@
   "main": "bundles/ng2-bootstrap.umd.js",
   "maintainers": [
     {
-      "name": "valorkin",
-      "email": "valorkin@gmail.com"
+      "email": "valorkin@gmail.com",
+      "name": "valorkin"
     }
   ],
   "module": "ng2-bootstrap.js",

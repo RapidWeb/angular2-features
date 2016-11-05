@@ -1,21 +1,14 @@
 {
   "_args": [
     [
-      {
-        "raw": "moment@^2.13.0",
-        "scope": null,
-        "escapedName": "moment",
-        "name": "moment",
-        "rawSpec": "^2.13.0",
-        "spec": ">=2.13.0 <3.0.0",
-        "type": "range"
-      },
-      "C:\\Users\\developer\\workspace\\blogger\\angular2-features"
+      "moment@^2.13.0",
+      "C:\\web\\Azure\\angular2-features"
     ]
   ],
   "_from": "moment@>=2.13.0 <3.0.0",
   "_id": "moment@2.15.2",
   "_inCache": true,
+  "_installable": true,
   "_location": "/moment",
   "_nodeVersion": "6.7.0",
   "_npmOperationalInternal": {
@@ -23,17 +16,16 @@
     "tmp": "tmp/moment-2.15.2.tgz_1477291781479_0.8402724489569664"
   },
   "_npmUser": {
-    "name": "ichernev",
-    "email": "iskren.chernev@gmail.com"
+    "email": "iskren.chernev@gmail.com",
+    "name": "ichernev"
   },
   "_npmVersion": "3.10.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "moment@^2.13.0",
-    "scope": null,
-    "escapedName": "moment",
     "name": "moment",
+    "raw": "moment@^2.13.0",
     "rawSpec": "^2.13.0",
+    "scope": null,
     "spec": ">=2.13.0 <3.0.0",
     "type": "range"
   },
@@ -42,14 +34,14 @@
     "/concurrently",
     "/connect-logger"
   ],
-  "_resolved": "https://registry.npmjs.org/moment/-/moment-2.15.2.tgz",
+  "_resolved": "http://registry.npmjs.org/moment/-/moment-2.15.2.tgz",
   "_shasum": "1bfdedf6a6e345f322fe956d5df5bd08a8ce84dc",
   "_shrinkwrap": null,
   "_spec": "moment@^2.13.0",
-  "_where": "C:\\Users\\developer\\workspace\\blogger\\angular2-features",
+  "_where": "C:\\web\\Azure\\angular2-features",
   "author": {
-    "name": "Iskren Ivov Chernev",
     "email": "iskren.chernev@gmail.com",
+    "name": "Iskren Ivov Chernev",
     "url": "https://github.com/ichernev"
   },
   "bugs": {
@@ -57,8 +49,8 @@
   },
   "contributors": [
     {
-      "name": "Tim Wood",
       "email": "washwithcare@gmail.com",
+      "name": "Tim Wood",
       "url": "http://timwoodcreates.com/"
     },
     {
@@ -66,18 +58,18 @@
       "url": "http://rockymeza.com"
     },
     {
-      "name": "Matt Johnson",
       "email": "mj1856@hotmail.com",
+      "name": "Matt Johnson",
       "url": "http://codeofmatt.com"
     },
     {
-      "name": "Isaac Cambron",
       "email": "isaac@isaaccambron.com",
+      "name": "Isaac Cambron",
       "url": "http://isaaccambron.com"
     },
     {
-      "name": "Andre Polykanine",
       "email": "andre@oire.org",
+      "name": "Andre Polykanine",
       "url": "https://github.com/oire"
     }
   ],
@@ -129,6 +121,9 @@
   "homepage": "http://momentjs.com",
   "jsnext:main": "./src/moment.js",
   "jspm": {
+    "buildConfig": {
+      "uglify": true
+    },
     "files": [
       "moment.js",
       "moment.d.ts",
@@ -136,9 +131,6 @@
     ],
     "map": {
       "moment": "./moment"
-    },
-    "buildConfig": {
-      "uglify": true
     }
   },
   "keywords": [
@@ -156,20 +148,20 @@
   "main": "./moment.js",
   "maintainers": [
     {
-      "name": "ichernev",
-      "email": "iskren.chernev@gmail.com"
+      "email": "iskren.chernev@gmail.com",
+      "name": "ichernev"
     },
     {
-      "name": "maggiepint",
-      "email": "maggiepint@gmail.com"
+      "email": "maggiepint@gmail.com",
+      "name": "maggiepint"
     },
     {
-      "name": "mj1856",
-      "email": "mj1856@hotmail.com"
+      "email": "mj1856@hotmail.com",
+      "name": "mj1856"
     },
     {
-      "name": "timrwood",
-      "email": "washwithcare@gmail.com"
+      "email": "washwithcare@gmail.com",
+      "name": "timrwood"
     }
   ],
   "name": "moment",
